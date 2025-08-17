@@ -182,14 +182,14 @@ const programData = {
       description: "Company Profile Desa Candibinangun yang dibuat oleh Tim KKN 14 Universitas Yudharta Pasuruan. Video ini bertujuan untuk memperkenalkan potensi desa, budaya, dan kegiatan masyarakat kepada khalayak luas. Dengan visual yang menarik dan narasi yang informatif, diharapkan video ini dapat menjadi media promosi yang efektif untuk menarik perhatian.",
       location: "Desa Candibinangun",
     },
-     {
+     /*{
       title: "After Movie",
       videos: ["/assets/videos/after-movie.mp4"],
       thumbnail: "/assets/images/after-profile-thumbnail.png", 
       type: "video",
       description: "After Movie KKN 14 Universitas Yudharta Pasuruan yang menampilkan rangkaian kegiatan selama sebulan di Desa Candibinangun. Video ini mengabadikan momen-momen berharga, interaksi dengan masyarakat, serta program-program yang telah dilaksanakan. Dengan durasi singkat namun padat, video ini menjadi dokumentasi visual yang menarik dan inspiratif.",
       location: "KKN 14 Universitas Yudharta Pasuruan",
-    },
+    },*/
   ],
 };
 
