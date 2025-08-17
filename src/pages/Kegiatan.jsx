@@ -174,14 +174,14 @@ const programData = {
       type: "video",
       description: "Mitigasi stunting di Desa Candibinangun dilakukan oleh Ibu-Ibu dan Tim KKN 14 Universitas Yudharta Pasuruan melalui video edukasi gizi dan kesehatan kepada ibu dan anak. Kegiatan ini bertujuan untuk meningkatkan kesadaran masyarakat akan pentingnya nutrisi yang baik dalam mencegah stunting. Dengan pendekatan yang interaktif, diharapkan informasi yang disampaikan dapat diterima dengan baik dan diterapkan dalam kehidupan sehari-hari.",
     },
-    /*{
+    {
       title: "Company Profile",
-      videos: ["/assets/videos/.mp4"],
-      thumbnail: "/assets/images/company-profile-thumbnail.jpeg", 
+      videos: ["/assets/videos/company-profile.mp4"],
+      thumbnail: "/assets/images/company-profile-thumbnail.png", 
       type: "video",
       description: "Company Profile Desa Candibinangun yang dibuat oleh Tim KKN 14 Universitas Yudharta Pasuruan. Video ini bertujuan untuk memperkenalkan potensi desa, budaya, dan kegiatan masyarakat kepada khalayak luas. Dengan visual yang menarik dan narasi yang informatif, diharapkan video ini dapat menjadi media promosi yang efektif untuk menarik perhatian.",
       location: "Desa Candibinangun",
-    },*/
+    },
   ],
 };
 
