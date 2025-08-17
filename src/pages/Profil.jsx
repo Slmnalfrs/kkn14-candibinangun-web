@@ -59,7 +59,7 @@ export default function ProfilDesa() {
         <span className="text-white">DESA</span>
         <br />
         <span className="bg-gradient-to-r from-emerald-400 via-teal-300 to-slate-200 bg-clip-text text-transparent">
-          CANDI BINANGUN
+          CANDIBINANGUN
         </span>
       </h1>
       
@@ -103,7 +103,7 @@ export default function ProfilDesa() {
               Sejarah & Identitas
             </div>
             <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black bg-gradient-to-r from-slate-800 to-emerald-700 bg-clip-text text-transparent mb-6">
-              Candi Binangun : Menjaga Akar, Menjemput Masa Depan
+              CandiBinangun : Menjaga Akar, Menjemput Masa Depan
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-emerald-500 to-teal-500 mx-auto"></div>
           </motion.div>
@@ -145,7 +145,7 @@ export default function ProfilDesa() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 3v18m9-9H3" />
                     </svg>
                   </div>
-                  <h3 className="text-2xl font-bold text-slate-800">Candi Binangun</h3>
+                  <h3 className="text-2xl font-bold text-slate-800">CandiBinangun</h3>
                 </div>
                 <p className="text-lg text-slate-700 leading-relaxed mb-6">
                   Candibinangun tidak hanya berdiri sebagai sebuah nama desa, tetapi juga sebagai simbol harapan dan kebangkitan. Dahulu, wilayah ini dikenal dengan nama Candirubuh – sebuah nama yang lahir dari kisah runtuhnya sebuah candi di perbatasan Kalirejo. Meski reruntuhannya tak meninggalkan artefak yang dapat dibuktikan secara arkeologis, kisah itu tetap hidup dalam ingatan kolektif masyarakat. Pada tahun 1970-1971, nama baru “Candibinangun” diresmikan sebagai penanda semangat membangun kembali, bukan dalam bentuk candi fisik, melainkan nilai-nilai: budaya, moral, dan persatuan.
@@ -214,7 +214,7 @@ export default function ProfilDesa() {
             </div>
             <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black mb-6">
               <span className="bg-gradient-to-r from-white to-emerald-300 bg-clip-text text-transparent">
-                Tape Candi Binangun
+                Tape CandiBinangun
               </span>
             </h2>
             <p className="text-xl text-slate-200 mb-6 max-w-3xl mx-auto">

@@ -112,7 +112,7 @@ export default function Beranda() {
       className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-black leading-none mb-4 sm:mb-6"
     >
       <span className="block bg-gradient-to-r from-white via-emerald-200 to-teal-200 bg-clip-text text-transparent">
-        DESA CANDI BINANGUN
+        DESA CANDIBINANGUN
       </span>
     </motion.h1>
     
@@ -205,7 +205,7 @@ export default function Beranda() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                     </svg>
                   </div>
-                  <h3 className="text-lg sm:text-xl lg:text-2xl font-bold text-slate-800 break-words">Desa Candi Binangun</h3>
+                  <h3 className="text-lg sm:text-xl lg:text-2xl font-bold text-slate-800 break-words">Desa CandiBinangun</h3>
                 </div>
                 <p className="text-sm sm:text-base lg:text-lg text-slate-700 leading-relaxed">
                   Candibinangun tidak hanya berdiri sebagai sebuah nama desa, tetapi juga sebagai simbol harapan dan kebangkitan. Dahulu, wilayah ini dikenal dengan nama Candirubuh – sebuah nama yang lahir dari kisah runtuhnya sebuah candi di perbatasan Kalirejo. Meski reruntuhannya tak meninggalkan artefak yang dapat dibuktikan secara arkeologis, kisah itu tetap hidup dalam ingatan kolektif masyarakat. 

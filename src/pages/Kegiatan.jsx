@@ -188,7 +188,7 @@ const programData = {
       thumbnail: "/assets/images/after-profile-thumbnail.png", 
       type: "video",
       description: "After Movie KKN 14 Universitas Yudharta Pasuruan yang menampilkan rangkaian kegiatan selama sebulan di Desa Candibinangun. Video ini mengabadikan momen-momen berharga, interaksi dengan masyarakat, serta program-program yang telah dilaksanakan. Dengan durasi singkat namun padat, video ini menjadi dokumentasi visual yang menarik dan inspiratif.",
-      location: "KKN 14 Universitas Yudharta Pasuruan",
+      spirit: "KKN 14 Universitas Yudharta Pasuruan",
     },
   ],
 };

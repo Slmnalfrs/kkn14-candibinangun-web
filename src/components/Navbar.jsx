@@ -38,19 +38,26 @@ export default function Navbar() {
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16 sm:h-20">
-          <div className="group relative cursor-pointer">
+          <div className="group relative cursor-pointer -ml-2">
             <motion.div
               className="flex items-center space-x-3"
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 300 }}
             >
+              <img 
+                src="/assets/images/logo.png" 
+                alt="Logo Desa Candibinangun" 
+                className="w-10 h-10 object-cover rounded-full"
+              />
               <div>
                 <h1 className="text-lg sm:text-xl font-bold bg-gradient-to-r from-emerald-400 to-teal-300 bg-clip-text text-transparent">
                   Desa Candibinangun
                 </h1>
-                <p className="text-xs text-slate-400 hidden sm:block">KKN 14 Universitas Yudharta</p>
+                <p className="text-xs text-slate-400 hidden sm:block">
+                  KKN 14 Universitas Yudharta
+                </p>
               </div>
-            </motion.div>
+           </motion.div>
           </div>
 
           {/* Desktop Navigation - Fixed */}

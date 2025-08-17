@@ -9,7 +9,7 @@ export default function Beranda() {
         <div className="absolute inset-0 bg-black/50 z-0"></div>
         <div className="relative z-10 px-6 text-center space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-green-400 to-purple-600 bg-clip-text text-transparent animate-fadeIn">
-            Selamat Datang di Desa Candibinangun
+            Selamat Datang di DesaCandibinangun
           </h1>
           <p className="text-lg md:text-xl text-white/90 animate-slideUp">
             Kampung Tape yang Kaya Akan Tradisi
